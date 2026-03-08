@@ -1,7 +1,7 @@
 {
   "domain": "ha-pvpc",
   "name": "Home Assistant PVPC Hourly Pricing arreglo 2026 y ss",
-  "version": "1.0.7,
+  "version": "1.0.7",
   "documentation": "https://github.com/emiliora/ha-pvpc",
   "issue_tracker": "https://github.com/emiliora/ha-pvpc/issues",
   "dependencies": [],
