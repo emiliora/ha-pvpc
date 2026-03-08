@@ -1,5 +1,5 @@
 {
-  "domain": "ha-pvpc",
+  "domain": "pvpc_arreglo",
   "name": "Home Assistant PVPC Hourly Pricing arreglo",
   "version": "1.0.7",
   "documentation": "https://github.com/emiliora/ha-pvpc",
