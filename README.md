@@ -1,8 +1,8 @@
-# Home Assistant PVPC Hourly Pricing (solución al error de 2026 debido a falta de festivos)
+# PVPC Hourly Pricing modificacion 2026
 
 >**⚠️ Disclaimer**
 >
-> This is an updated version of the official PVPC integration. From now on, it will be maintained to prevent issues when the year changes.
+> This is an updated version of the official PVPC integration. From now on, it will be maintained to prevent issues when the year changes (solución al error de 2026 debido a falta de festivos).
 
 Custom integration for Home Assistant that retrieves the PVPC (Voluntary Price for Small Consumers) electricity prices in Spain, broken down by hourly periods. Allows using the data in **sensors**, **automations**, and **energy dashboards** in Home Assistant.
 
